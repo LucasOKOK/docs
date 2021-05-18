@@ -15,10 +15,10 @@ title: Commands
 ## Song
 ---
 <!-- Song-related commands -->
-- **`!join`** - Summons the bot to the voice channel you are in.
+- **`¡join`** - Summons the bot to the voice channel you are in.
     - **Aliases:** `summon`
 ---
-- **`!play`** - Plays a song with the given name or url. [**More Info**](/play_song)
+- **`¡play`** - Plays a song with the given name or url. [**More Info**](/play_song)
     - **Usage:** `!play <link/query>`
     - **Alias:** `p`
 ---
@@ -57,13 +57,13 @@ title: Commands
 ---
 - **`!replay`** - Resets the progress of the current song.
 ---
-- **`!loop`** - Toggles looping for the current playing song.
+- **`¡loop`** - Toggles looping for the current playing song.
     - **Alias:** `repeat`
 ---
-- **`!voteskip`** - Votes to skip the current playing song. **[More Info](/voteskip#how-many-votes-are-required-for-a-song-to-be-vote-skipped)**
+- **`¡voteskip`** - Votes to skip the current playing song. **[More Info](/voteskip#how-many-votes-are-required-for-a-song-to-be-vote-skipped)**
     - **Alias:** `skip`, `next`, `s`
 ---
-- **`!forceskip`** - Skips the current playing song immediately.
+- **`¡forceskip`** - Skips the current playing song immediately.
     - **Other Usage:** `!forceskip <number>` - Skip a certain amount of songs.
     - **Aliases:** `fs`, `fskip`
     - **Note:** `DJ` role/`Manage Channels` permission required.
